@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication7", "WindowsFormsApplication7\WindowsFormsApplication7.csproj", "{C2548B7F-0DE5-45DD-8915-41F19F83FBAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9EC72CD0-6EEA-4E6F-9B85-C83688311CFF}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2548B7F-0DE5-45DD-8915-41F19F83FBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2548B7F-0DE5-45DD-8915-41F19F83FBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2548B7F-0DE5-45DD-8915-41F19F83FBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2548B7F-0DE5-45DD-8915-41F19F83FBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

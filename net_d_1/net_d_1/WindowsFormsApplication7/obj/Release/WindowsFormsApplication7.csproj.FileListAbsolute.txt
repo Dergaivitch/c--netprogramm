@@ -1,0 +1,27 @@
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form2.resources
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form3.resources
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Камилиан\Desktop\network discovery1\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.FormUtil.resources
+C:\Users\MrHook\Desktop\net_d_1\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\MrHook\Desktop\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\bin\Release\Newtonsoft.Json.dll
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\bin\Release\Newtonsoft.Json.xml
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form2.resources
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form3.resources
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.FormUtil.resources
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Камилиан\workspace\Network_Discovery_remote\net_d_1\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
